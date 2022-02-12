@@ -1,2 +1,2 @@
-# Just On technical challenge by Txus Ordorika
+# Heroku test by Txus Ordorika
 
