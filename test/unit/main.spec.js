@@ -5,7 +5,7 @@ describe("computeDigits", function () {
         it("keeps working", () => {
             const data = [ -23, 65 ];
             const result = compute(data);
-            expect(result).to.equal(8);
+            expect(result).to.equal(6);
         });
     });
     context("all number are integer positive", () => {
