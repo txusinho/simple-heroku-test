@@ -1,4 +1,4 @@
-const compute = require("../../src/main");
+const compute = require("../../src/compute");
 
 describe("computeDigits", function () {
     context("any negative number on the list", () => {
