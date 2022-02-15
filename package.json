@@ -2,7 +2,7 @@
   "name": "juston",
   "version": "1.0.0",
   "description": "JustOn technical challenge by JOP",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
     "test": "./node_modules/mocha/bin/mocha"
