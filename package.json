@@ -7,6 +7,9 @@
     "start": "node src/index.js",
     "test": "./node_modules/mocha/bin/mocha"
   },
+  "engines": {
+    "node": "14.x"
+  },
   "keywords": [
     "node",
     "jop",
